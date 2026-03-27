@@ -9,5 +9,5 @@ function getName (name1,name2,...name3){
     console.log(name1,name2,name3);
     
 }
-getName("aung aung","Hla Hla","kar kar","na na", "liay","pho pho","pete lay")
+getName("aung aung","Hla Hla","kar kar","na na", "liay","pho pho","peter chit lay")
 
